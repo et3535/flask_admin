@@ -1,0 +1,9 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    uriHandlerRegistration: "never"
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "708ec4ed-7573-4d81-bfe3-8489122c23bd"
